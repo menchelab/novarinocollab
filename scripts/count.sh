@@ -18,7 +18,7 @@ featureCounts \
 	-g gene_id \
 	-T 8 \
 	--ignoreDup \
-	-o processed/scRNA_featureCounts.tsv \
+	-o raw/scRNA_featureCounts.tsv \
 	results/star_salmon/16*.bam
 
 featureCounts \
@@ -27,5 +27,5 @@ featureCounts \
 	-g gene_id \
 	-T 8 \
 	--ignoreDup \
-	-o processed/RNA_featureCounts.tsv \
+	-o raw/RNA_featureCounts.tsv \
 	results/star_salmon/8*.bam
