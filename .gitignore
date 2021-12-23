@@ -2,6 +2,7 @@
 results/
 data/
 .nextflow/
+.ipynb_checkpoints/
 
 #files
 *.out
