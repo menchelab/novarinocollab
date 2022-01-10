@@ -8,14 +8,14 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=daniel.malzl@imp.ac.at
 
-reference=/resources/references/igenomes/Mus_musculus/UCSC/mm10/Annotation/Genes/genes.gtf
-module load subread/2.0.1-foss-2018b
+reference=data/gencode.vM28.annotation.gtf
+module load subread/2.0.1-gcc-7.3.0-2.30
 
 featureCounts \
 	-a $reference \
 	-p \
 	-t exon \
-	-g gene_id \
+	-g gene_name \
 	-T 8 \
 	--ignoreDup \
 	-o raw/scRNA_featureCounts.tsv \
@@ -24,7 +24,7 @@ featureCounts \
 featureCounts \
 	-a $reference \
 	-t exon \
-	-g gene_id \
+	-g gene_name \
 	-T 8 \
 	--ignoreDup \
 	-o raw/RNA_featureCounts.tsv \
