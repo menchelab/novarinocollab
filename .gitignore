@@ -1,9 +1,11 @@
 #folders
 results/
 data/
+processed/
 .nextflow/
 notebooks/.ipynb_checkpoints/
 
 #files
 *.out
 *.log*
+*/.*
