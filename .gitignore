@@ -3,6 +3,7 @@ results/
 data/
 processed/
 .nextflow/
+compass/
 notebooks/.ipynb_checkpoints/
 
 #files

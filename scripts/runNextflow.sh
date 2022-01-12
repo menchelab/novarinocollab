@@ -4,7 +4,7 @@ nextflow run nf-core/rnaseq \
 	-w /scratch/daniel.malzl/work \
 	--input meta/samples.csv \
 	--fasta data/GRCm39.primary_assembly.genome.fa \
-	--gtf data/gencode.vM28.annotation.gtf \\
+	--gtf data/gencode.vM28.annotation.gtf \
 	--gencode \
 	--skip_deseq2_qc \
 	-resume
