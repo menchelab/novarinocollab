@@ -5,6 +5,7 @@ processed/
 .nextflow/
 compass/
 notebooks/.ipynb_checkpoints/
+plots/
 
 #files
 *.out

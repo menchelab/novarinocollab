@@ -18,4 +18,6 @@ do
 		--num-processes 10 \
 		--calc-metabolites \
 		--species mus_musculus 
+
+	gzip compass/${quant}/${sample}/*tsv
 done
