@@ -8,6 +8,7 @@ notebooks/.ipynb_checkpoints/
 plots/
 
 #files
+.DS_Store
 *.out
 *.log*
 */.*
