@@ -2,7 +2,7 @@
 #
 #SBATCH --job-name=compass
 #SBATCH --cpus-per-task=10
-#SBATCH --mem=64GB
+#SBATCH --mem=100GB
 #SBATCH --array=1-11
 #SBATCH --output=out/compass_timeseries_%a.out
 #SBATCH --mail-type=ALL
