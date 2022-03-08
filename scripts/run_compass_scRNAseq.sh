@@ -23,3 +23,5 @@ do
 
 	gzip compass/${quant}/${sample}/*tsv
 done
+
+# this script was modified for neurons with microclusters of sizes 3 and 5 for WT and KO to generate the novarino_tpm_micropooled results
