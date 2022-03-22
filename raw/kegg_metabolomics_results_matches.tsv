@@ -1,0 +1,58 @@
+name	matching_name	kegg	matching_kegg
+Pyruvic acid	Pyruvic acid	C00022	C00022
+Glycerin	Glycerin	C00116	C00116
+L-(-)-Serine	Serine	C00065	C00065
+L-Leucine	L-Leucine	C00123	C00123
+Isoleucine	L-Isoleucine	C00407	C00407
+O-Acetylcholine	O-Acetylcholine	C01996	C01996
+Phosphoenolpyruvic acid	Phosphoenolpyruvic acid	C00074	C00074
+Dihydroxyacetone phosphate	Dihydroxyacetone phosphate	C00111	C00111
+Citric acid	Citric acid	C00158	C00158
+D-Fructose 6-phosphate	beta-D-Fructose 6-phosphate	C00085	C05345
+D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	C00092	C00668
+D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate	C00092	C01172
+D-Fructose 1,6-bisphosphate	beta-D-Fructose 1,6-bisphosphate	C00354	C05378
+CDP-ethanolamine	CDP-ethanolamine	C00570	C00570
+Cytidine 5'-diphosphocholine (CDP-choline)	Cytidine 5'-diphosphocholine	C00307	C00307
+Adenosine 5'-triphosphate (5'-ATP)	Adenosine 5'-triphosphate	C00002	C00002
+ß-Nicotinamide adenine dinucleotide (NAD+)	Nicotinamide adenine dinucleotide	C00003	C00003
+ß-Nicotinamide adenine dinucleotide reduced (NADH)	NADH	C00004	C00004
+L-a-Phosphatidylcholine	Phosphatidylcholine		C00157
+Coenzyme A	Coenzyme A	C00010	C00010
+Choline	Choline	C00114	C00114
+Fumaric acid	Fumaric acid	D02308	C00122
+L-(-)-Malic acid	Malic acid	C00149	C00149
+D-(+)-Malic acid	Malic acid	C00497	C00149
+DL-Malic acid	L-Malic acid	C00711	C00149
+DL-Malic acid	Malic acid	C00711	C00149
+O-Phosphorylethanolamine	O-Phosphorylethanolamine	C00346	C00346
+Acetylcholine	Acetylcholine	C01996	C01996
+cis-Aconitic acid	cis-Aconitic acid	C00417	C00417
+Linoleic acid	Linoleic acid	C01595	C01595
+Arachidonic acid	Arachidonic acid	C00219	C00219
+8Z,11Z,14Z-Eicosatrienoic acid	8Z,11Z,14Z-Eicosatrienoic acid	C03242	C03242
+Palmitoylcarnitine	L-Palmitoylcarnitine		C02990
+Adenosine diphosphate (ADP)	ADP	C00008	C00008
+Methylmalonic acid	Methylmalonic acid		C02170
+alpha-Ketoglutaric acid	alpha-Ketoglutaric acid		C00026
+Dihydroxyacetone phosphate	Dihydroxyacetone phosphate		C00111
+D-Glucopyranose	D-Glucopyranose		C00031
+D-Glucopyranose	beta-D-Glucopyranose		C00221
+.alpha.-D-Glucopyranose	D-Glucopyranose		C00031
+.beta.-D-Glucopyranose	D-Glucopyranose		C00031
+D-(+)-Glucose	Glucose		C00031
+1,3-Dihydroxyacetone Dimer	1,3-Dihydroxyacetone		C00184
+Dihomo-gamma-linolenic acid	Dihomo-gamma-linolenic acid		C03242
+Phosphatidylserine	Phosphatidylserine		C02737
+L-Serine	L-Serine	C00065	C00065
+L-Serine	Serine	C00065	C00065
+Fumaric acid	Fumaric acid	C00122	C00122
+a-D-Glucose 1-phosphate	D-Glucose 1-phosphate	C00103	C00103
+a-D-Glucose 1-phosphate	alpha-D-Glucose 1-phosphate	C00103	C00103
+Cytidine 5'-diphosphocholine	Cytidine 5'-diphosphocholine	C00307	C00307
+β-Nicotinamide adenine dinucleotide (NAD+)	Nicotinamide adenine dinucleotide	C00003	C00003
+Prostaglandin D2	Prostaglandin D2	C00696	C00696
+wrong mass Prostaglandin D2	Prostaglandin D2	C00696	C00696
+Hydroxypropionic acid	D-2-Hydroxypropionic acid		C00256
+Glyceraldehyde	D-Glyceraldehyde		C00577
+Dihydroxyacetone	Dihydroxyacetone		C00184
