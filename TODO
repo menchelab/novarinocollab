@@ -1,0 +1,4 @@
+make infomap network directed to reflect the temporal ordering of layers
+this means introducing two edges between each pair of nodes within a layer
+but only one directed edge from node i at time t_j to node k at time t_j+1
+and see if the outcome is reasonable
