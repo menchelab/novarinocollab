@@ -1,0 +1,15 @@
+Status	results/star_salmon/81446.markdup.sorted.bam	results/star_salmon/81447.markdup.sorted.bam	results/star_salmon/81448.markdup.sorted.bam	results/star_salmon/81449.markdup.sorted.bam	results/star_salmon/81450.markdup.sorted.bam	results/star_salmon/81451.markdup.sorted.bam
+Assigned	2040823	1705949	1724160	2200544	1955150	1963639
+Unassigned_Unmapped	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	13199888	13939201	10597571	13719070	12743990	12621481
+Unassigned_MultiMapping	10726288	10742718	8836607	11713530	10216611	10304124
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	2204248	1777629	1504235	2452568	1803845	2173026
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	107604	90799	92618	118202	104883	102873

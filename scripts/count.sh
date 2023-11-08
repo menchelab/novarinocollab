@@ -24,7 +24,7 @@ featureCounts \
 featureCounts \
 	-a $reference \
 	-t exon \
-	-g gene_name \
+	-g gene_id \
 	-T 8 \
 	--ignoreDup \
 	-o raw/RNA_featureCounts.tsv \
